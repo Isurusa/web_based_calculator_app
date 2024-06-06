@@ -19,7 +19,7 @@
         ```
         php artisan migrate
         ```
-    - run the backend
+    - Run the backend
         ```
         php artisan serve --port=8000
         ```
@@ -29,7 +29,7 @@
         ```
         cd frontend
         ```
-    - run the frontend
+    - Run the frontend
         ```
         npm run serve
         ```
