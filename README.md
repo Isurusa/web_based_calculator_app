@@ -9,27 +9,27 @@
 ## Project setup
 1. Clone the repository from GitHub
 2. Setup the backend
-   2.1. Go to the backend dictionary
+   - Go to the backend dictionary
     ```
     cd backend
     ```
-  2.2. Rename .env.dev file to ".env"
-  2.3. Create a database and configure .env file
-  2.4. Database Migrations 
+  - Rename .env.dev file to ".env"
+  - Create a database and configure .env file
+  - Database Migrations 
     ```
     php artisan migrate
     ```
-  2.4. run the backend
+  - run the backend
     ```
     php artisan serve --port=8000
     ```
 
 3. Setup the frontend
-   3.1. Go to the frontend dictionary
+   - Go to the frontend dictionary
     ```
     cd frontend
     ```
-    3.2. run the frontend
+    - run the frontend
     ```
     npm run serve
     ```
