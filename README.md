@@ -1,7 +1,7 @@
 ## Develop a web-based calculator app
 
 ## Technology Stack
-- PHP 8.02
+- PHP 8.2
 - Laravel 11
 - Vue.js 3
 - MySQL
