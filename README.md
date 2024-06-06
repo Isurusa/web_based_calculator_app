@@ -15,7 +15,7 @@
         ```
     - Rename .env.dev file to ".env"
     - Create a database and configure .env file
-    - Database Migrations 
+    - Database migration 
         ```
         php artisan migrate
         ```
@@ -35,4 +35,4 @@
         ```
     ** Note: node v18.17.1, npm v10.8.1
 
-4. Enjoy the calculator app.
+4. App running
